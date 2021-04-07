@@ -1,0 +1,17 @@
+data = [
+	{
+		"id": "bitcoin",
+		"price": "50689",	
+		"symbol": "btc"
+	},
+	{	
+		"id": "ethereum",
+		"price": "12909",	
+		"symbol": "eth"
+	},
+	{	
+		"id": "xio-labs",
+		"price": "1.29",	
+		"symbol": "xio"
+	}
+];
